@@ -1,0 +1,44 @@
+LOCUS       MB431239                 357 bp    DNA     linear   PAT 25-DEC-2019
+DEFINITION  JP 2019521981-A/2: Methods and Compositions for the Treatment of
+            Celiac Disease, Non-Celiac Gluten Sensitivity, and Refractory
+            Celiac Disease.
+ACCESSION   MB431239
+VERSION     MB431239.1
+KEYWORDS    JP 2019521981-A/2.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 357)
+  AUTHORS   Leon,F. and Tsuji,W.H.
+  TITLE     Methods and Compositions for the Treatment of Celiac Disease,
+            Non-Celiac Gluten Sensitivity, and Refractory Celiac Disease
+  JOURNAL   Patent: JP 2019521981-A 2 08-AUG-2019;
+            Amgen Inc,Celimmune LLC
+COMMENT     OS   Homo sapiens
+            PN   JP 2019521981-A/2
+            PD   08-AUG-2019
+            PF   15-JUN-2016 JP 2018565345
+            PR
+            PA   Amgen Inc,Celimmune LLC
+            PI   francisco leon,wayne h tsuji
+            PT   'Methods and Compositions for the Treatment of Celiac Disease,
+            PT   Non-Celiac
+            PT   Gluten Sensitivity, and Refractory Celiac Disease'
+            PS   N3
+            CC
+            FH   Key             Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..357
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+ORIGIN      
+        1 gaaattgtgt tgacgcagtc tccaggcacc ctgtctttgt ctccagggga aagagccacc
+       61 ctctcctgca gggccagtca gagtgttagc agcagctact tagcctggta ccagcagaaa
+      121 cctggccagg ctcccaggct cctcatctat ggtgcatccc gcagggccac tggcatccca
+      181 gacaggttca gtggcagtgg gtctgggaca gacttcactc tcaccatcag cagactggag
+      241 cctgaagatt ttgcagtgta ttactgtcag cggtatggta gctcacacac ttttggccag
+      301 gggaccaagc tggagatcag ccgaactgtg gctgcaccat ctgtcttcat cttcccg
+//
