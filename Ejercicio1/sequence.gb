@@ -1,44 +1,278 @@
-LOCUS       MB431239                 357 bp    DNA     linear   PAT 25-DEC-2019
-DEFINITION  JP 2019521981-A/2: Methods and Compositions for the Treatment of
-            Celiac Disease, Non-Celiac Gluten Sensitivity, and Refractory
-            Celiac Disease.
-ACCESSION   MB431239
-VERSION     MB431239.1
-KEYWORDS    JP 2019521981-A/2.
+LOCUS       NM_030893               1919 bp    mRNA    linear   PRI 03-JUN-2022
+DEFINITION  Homo sapiens CD1e molecule (CD1E), transcript variant 1, mRNA.
+ACCESSION   NM_030893
+VERSION     NM_030893.4
+KEYWORDS    RefSeq; MANE Select.
 SOURCE      Homo sapiens (human)
   ORGANISM  Homo sapiens
             Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
             Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
             Catarrhini; Hominidae; Homo.
-REFERENCE   1  (bases 1 to 357)
-  AUTHORS   Leon,F. and Tsuji,W.H.
-  TITLE     Methods and Compositions for the Treatment of Celiac Disease,
-            Non-Celiac Gluten Sensitivity, and Refractory Celiac Disease
-  JOURNAL   Patent: JP 2019521981-A 2 08-AUG-2019;
-            Amgen Inc,Celimmune LLC
-COMMENT     OS   Homo sapiens
-            PN   JP 2019521981-A/2
-            PD   08-AUG-2019
-            PF   15-JUN-2016 JP 2018565345
-            PR
-            PA   Amgen Inc,Celimmune LLC
-            PI   francisco leon,wayne h tsuji
-            PT   'Methods and Compositions for the Treatment of Celiac Disease,
-            PT   Non-Celiac
-            PT   Gluten Sensitivity, and Refractory Celiac Disease'
-            PS   N3
-            CC
-            FH   Key             Location/Qualifiers.
+REFERENCE   1  (bases 1 to 1919)
+  AUTHORS   Aureli A, Aboulaghras S, Oumhani K, Del Beato T, Sebastiani P,
+            Colanardi A, El Aouad R, Ben El Barhdadi I and Piancatelli D.
+  TITLE     CD1 gene polymorphism and susceptibility to celiac disease:
+            Association of CD1E*02/02 in Moroccans
+  JOURNAL   Hum Immunol 81 (7), 361-365 (2020)
+   PUBMED   32467040
+  REMARK    GeneRIF: CD1 gene polymorphism and susceptibility to celiac
+            disease: Association of CD1E*02/02 in Moroccans.
+REFERENCE   2  (bases 1 to 1919)
+  AUTHORS   Rahman MI, Jahan I, Khalid MM, Jahan I, Ahammad RU, Nahar S and
+            Islam Z.
+  TITLE     CD1A and CD1E gene polymorphisms are not associated with
+            susceptibility to Guillain-Barre syndrome in the Bangladeshi
+            population
+  JOURNAL   J Neuroimmunol 314, 8-12 (2018)
+   PUBMED   29301656
+  REMARK    GeneRIF: Single nucleotide polymorphisms in exon 2 of CD1A
+            (*01/*02) and CD1E (*01/*02) cannot be recognized as a
+            susceptibility or disease-causative factor for Guillain-Barre
+            syndrome in the Bangladeshi population
+REFERENCE   3  (bases 1 to 1919)
+  AUTHORS   Maitre B, Angenieux C, Wurtz V, Layre E, Gilleron M, Collmann A,
+            Mariotti S, Mori L, Fricker D, Cazenave JP, van Dorsselaer A,
+            Gachet C, de Libero G, Puzo G, Hanau D and de la Salle H.
+  TITLE     The assembly of CD1e is controlled by an N-terminal propeptide
+            which is processed in endosomal compartments
+  JOURNAL   Biochem J 419 (3), 661-668 (2009)
+   PUBMED   19196239
+  REMARK    GeneRIF: CD1e propeptide is conserved during evolution, suggesting
+            that it may also optimize the generation of CD1e molecules in other
+            species.
+REFERENCE   4  (bases 1 to 1919)
+  AUTHORS   Brigl M and Brenner MB.
+  TITLE     CD1: antigen presentation and T cell function
+  JOURNAL   Annu Rev Immunol 22, 817-890 (2004)
+   PUBMED   15032598
+  REMARK    Review article
+REFERENCE   5  (bases 1 to 1919)
+  AUTHORS   Angenieux C, Salamero J, Fricker D, Cazenave JP, Goud B, Hanau D
+            and de La Salle H.
+  TITLE     Characterization of CD1e, a third type of CD1 molecule expressed in
+            dendritic cells
+  JOURNAL   J Biol Chem 275 (48), 37757-37764 (2000)
+   PUBMED   10948205
+REFERENCE   6  (bases 1 to 1919)
+  AUTHORS   Mirones I, Oteo M, Parra-Cuadrado JF and Martinez-Naves E.
+  TITLE     Identification of two novel human CD1E alleles
+  JOURNAL   Tissue Antigens 56 (2), 159-161 (2000)
+   PUBMED   11019917
+REFERENCE   7  (bases 1 to 1919)
+  AUTHORS   Yu CY and Milstein C.
+  TITLE     A physical map linking the five CD1 human thymocyte differentiation
+            antigen genes
+  JOURNAL   EMBO J 8 (12), 3727-3732 (1989)
+   PUBMED   2583117
+REFERENCE   8  (bases 1 to 1919)
+  AUTHORS   Calabi F, Jarvis JM, Martin L and Milstein C.
+  TITLE     Two classes of CD1 genes
+  JOURNAL   Eur J Immunol 19 (2), 285-292 (1989)
+   PUBMED   2467814
+REFERENCE   9  (bases 1 to 1919)
+  AUTHORS   Albertson DG, Fishpool R, Sherrington P, Nacheva E and Milstein C.
+  TITLE     Sensitive and high resolution in situ hybridization to human
+            chromosomes using biotin labelled probes: assignment of the human
+            thymocyte CD1 antigen genes to chromosome 1
+  JOURNAL   EMBO J 7 (9), 2801-2805 (1988)
+   PUBMED   3053166
+REFERENCE   10 (bases 1 to 1919)
+  AUTHORS   Martin,L.H., Calabi,F. and Milstein,C.
+  TITLE     Isolation of CD1 genes: a family of major histocompatibility
+            complex-related differentiation antigens
+  JOURNAL   Proc Natl Acad Sci U S A 83 (23), 9154-9158 (1986)
+   PUBMED   3097645
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DC406237.1, BC131693.1,
+            AJ289111.1 and AL121986.12.
+            On Nov 23, 2018 this sequence version replaced NM_030893.3.
+            
+            Summary: This gene encodes a member of the CD1 family of
+            transmembrane glycoproteins, which are structurally related to the
+            major histocompatibility complex (MHC) proteins and form
+            heterodimers with beta-2-microglobulin. The CD1 proteins mediate
+            the presentation of primarily lipid and glycolipid antigens of self
+            or microbial origin to T cells. The human genome contains five CD1
+            family genes organized in a cluster on chromosome 1. The CD1 family
+            members are thought to differ in their cellular localization and
+            specificity for particular lipid ligands. The protein encoded by
+            this gene localizes within Golgi compartments, endosomes, and
+            lysosomes, and is cleaved into a stable soluble form. The soluble
+            form is required for the intracellular processing of some
+            glycolipids into a form that can be presented by other CD1 family
+            members. Many alternatively spliced transcript variants encoding
+            different isoforms have been described. Additional transcript
+            variants have been found; however, their biological validity has
+            not been determined. [provided by RefSeq, Jun 2010].
+            
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest protein (isoform a, also known
+            as 1).
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK303108.1, AJ289111.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000368167.8/ ENSP00000357149.3
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-93                DC406237.1         199-291
+            94-450              BC131693.1         3-359
+            451-1262            AJ289111.1         356-1167
+            1263-1919           AL121986.12        103312-103968
 FEATURES             Location/Qualifiers
-     source          1..357
+     source          1..1919
                      /organism="Homo sapiens"
-                     /mol_type="unassigned DNA"
+                     /mol_type="mRNA"
                      /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1q23.1"
+     gene            1..1919
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="CD1e molecule"
+                     /db_xref="GeneID:913"
+                     /db_xref="HGNC:HGNC:1638"
+                     /db_xref="MIM:188411"
+     exon            1..153
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    42..44
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="upstream in-frame stop codon"
+     CDS             96..1262
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="isoform a precursor is encoded by transcript
+                     variant 1; CD1E antigen, e polypeptide; leukocyte
+                     differentiation antigen; differentiation antigen
+                     CD1-alpha-3; thymocyte antigen CD1E; T-cell surface
+                     glycoprotein CD1e, membrane-associated; R2G1; hCD1e"
+                     /codon_start=1
+                     /product="T-cell surface glycoprotein CD1e,
+                     membrane-associated isoform a precursor"
+                     /protein_id="NP_112155.2"
+                     /db_xref="CCDS:CCDS41417.1"
+                     /db_xref="GeneID:913"
+                     /db_xref="HGNC:HGNC:1638"
+                     /db_xref="MIM:188411"
+                     /translation="MLLLFLLFEGLCCPGENTAAPQALQSYHLAAEEQLSFRMLQTSS
+                     FANHSWAHSEGSGWLGDLQTHGWDTVLGTIRFLKPWSHGNFSKQELKNLQSLFQLYFH
+                     SFIQIVQASAGQFQLEYPFEIQILAGCRMNAPQIFLNMAYQGSDFLSFQGISWEPSPG
+                     AGIRAQNICKVLNRYLDIKEILQSLLGHTCPRFLAGLMEAGESELKRKVKPEAWLSCG
+                     PSPGPGRLQLVCHVSGFYPKPVWVMWMRGEQEQRGTQRGDVLPNADETWYLRATLDVA
+                     AGEAAGLSCRVKHSSLGGHDLIIHWGGYSIFLILICLTVIVTLVILVVVDSRLKKQSS
+                     NKNILSPHTPSPVFLMGANTQDTKNSRHQFCLAQVSWIKNRVLKKWKTRLNQLW"
+     sig_peptide     96..152
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     153..1259
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /product="T-cell surface glycoprotein CD1e,
+                     membrane-associated isoform a"
+     misc_feature    234..236
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P15812.2); glycosylation site"
+     misc_feature    345..347
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P15812.2); glycosylation site"
+     misc_feature    1008..1070
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P15812.2);
+                     transmembrane region"
+     exon            154..450
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            451..720
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            721..999
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1000..1093
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1094..1919
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1882..1887
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="hexamer: AATAAA"
+     regulatory      1898..1903
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="hexamer: AATAAA"
+     polyA_site      1903
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="major polyA site"
+     polyA_site      1919
+                     /gene="CD1E"
+                     /gene_synonym="CD1A; R2"
+                     /note="major polyA site"
 ORIGIN      
-        1 gaaattgtgt tgacgcagtc tccaggcacc ctgtctttgt ctccagggga aagagccacc
-       61 ctctcctgca gggccagtca gagtgttagc agcagctact tagcctggta ccagcagaaa
-      121 cctggccagg ctcccaggct cctcatctat ggtgcatccc gcagggccac tggcatccca
-      181 gacaggttca gtggcagtgg gtctgggaca gacttcactc tcaccatcag cagactggag
-      241 cctgaagatt ttgcagtgta ttactgtcag cggtatggta gctcacacac ttttggccag
-      301 gggaccaagc tggagatcag ccgaactgtg gctgcaccat ctgtcttcat cttcccg
+        1 agacgagagt gcaagagggt gtggagaggg gtactgatat ctgaattatt agggcaggtg
+       61 tcctgccaag gaatccctcc tttaacagag cttcaatgct gctcctgttc ctcctcttcg
+      121 agggtctctg ctgtcctggg gaaaatacag cagctcccca ggctctacaa tcctatcatc
+      181 tagcagcaga ggagcagctg tccttccgca tgctccaaac ttcctccttt gccaaccaca
+      241 gctgggcaca cagtgagggc tcaggatggc tgggtgacct gcagactcat ggctgggaca
+      301 ctgtcttggg caccatccgc tttctgaagc cctggtccca tggaaacttc agcaagcagg
+      361 agctgaaaaa cttacagtca ctgttccagt tatacttcca tagttttatc cagatagtgc
+      421 aagcttctgc tggtcaattt cagcttgaat accccttcga gatccagata ttagctggct
+      481 gtagaatgaa tgccccacaa atcttcttaa atatggcata tcaagggtca gatttcctga
+      541 gtttccaagg aatttcctgg gagccatctc caggagcagg gatccgggcc cagaacatct
+      601 gtaaagtgct caatcgctac ctagatatta aggaaatact gcaaagcctt cttggtcaca
+      661 cctgccctcg atttctagcg gggctcatgg aagcagggga gtcagaactg aaacggaaag
+      721 tgaagccaga ggcctggctg tcctgtggcc ccagtcctgg ccctggccgt ctgcagcttg
+      781 tgtgccatgt ctcaggattc tacccaaagc ccgtgtgggt gatgtggatg cggggtgagc
+      841 aggagcagcg gggcactcag cgaggggacg tcctgcctaa tgctgacgag acatggtatc
+      901 tccgagcaac cctggatgtg gcggctgggg aggcagctgg cctgtcctgt cgggtgaaac
+      961 acagcagtct agggggccat gatctaatca tccattgggg tggatattcc atctttctca
+     1021 tcctgatctg tttgactgtg atagttaccc tggtcatatt ggttgtagtt gactcacggt
+     1081 taaaaaaaca gagttcaaat aagaacattc tttctcccca cacacccagc cctgtctttc
+     1141 tcatgggagc caacactcag gacaccaaga attcaagaca tcagttctgc ttggcacaag
+     1201 tatcgtggat caaaaacaga gtattgaaga agtggaagac acgcctaaac caactctggt
+     1261 gacatttgct ttaccttata cataaaatcc ttgtctgcat cttcttaaac accgtccatg
+     1321 tcccataagg gaagcatgct tttatttaaa cagtttatac tagcaaagat actgacccct
+     1381 ttaggaatac tttttcccca tcttccagag attttttttt tcctgctttg gctacatatc
+     1441 catcattgtt tatttttgaa actataatcc agatacttct ttttcatgga ttcccgagat
+     1501 cacccaattg atagctcttc tgtactcccc aaattgaact gatcttcaca agcacattca
+     1561 tctcttccta ctctgaacag tagttattta ggtttttgct cttttttttt ttttaatctc
+     1621 agttgcttga aagtaggatt taggtatttg tgtctgtatt catgaccaaa aatcttatct
+     1681 gaattcaggg ccagcttcat aagcatgtga cctgtgcaga cacatggaat cgtatgctct
+     1741 gcaagaaccc atgctagatt taatgctctg ctgttgtcat cttggaatcc ttagtcattt
+     1801 tcaaacaaga gatattgtat tttcattttt cactgacccc acaaattata tagctgattc
+     1861 agtgtgaatg taatatttct caataaatgc tgactgaaat aaatttgttg ttagatcaa
 //
