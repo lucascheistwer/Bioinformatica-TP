@@ -1,278 +1,274 @@
-LOCUS       NM_030893               1919 bp    mRNA    linear   PRI 03-JUN-2022
-DEFINITION  Homo sapiens CD1e molecule (CD1E), transcript variant 1, mRNA.
-ACCESSION   NM_030893
-VERSION     NM_030893.4
+LOCUS       NM_002122               1574 bp    mRNA    linear   PRI 16-SEP-2022
+DEFINITION  Homo sapiens major histocompatibility complex, class II, DQ alpha 1
+            (HLA-DQA1), mRNA.
+ACCESSION   NM_002122 XM_003846467 XM_351654
+VERSION     NM_002122.5
 KEYWORDS    RefSeq; MANE Select.
 SOURCE      Homo sapiens (human)
   ORGANISM  Homo sapiens
             Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
             Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
             Catarrhini; Hominidae; Homo.
-REFERENCE   1  (bases 1 to 1919)
-  AUTHORS   Aureli A, Aboulaghras S, Oumhani K, Del Beato T, Sebastiani P,
-            Colanardi A, El Aouad R, Ben El Barhdadi I and Piancatelli D.
-  TITLE     CD1 gene polymorphism and susceptibility to celiac disease:
-            Association of CD1E*02/02 in Moroccans
-  JOURNAL   Hum Immunol 81 (7), 361-365 (2020)
-   PUBMED   32467040
-  REMARK    GeneRIF: CD1 gene polymorphism and susceptibility to celiac
-            disease: Association of CD1E*02/02 in Moroccans.
-REFERENCE   2  (bases 1 to 1919)
-  AUTHORS   Rahman MI, Jahan I, Khalid MM, Jahan I, Ahammad RU, Nahar S and
-            Islam Z.
-  TITLE     CD1A and CD1E gene polymorphisms are not associated with
-            susceptibility to Guillain-Barre syndrome in the Bangladeshi
-            population
-  JOURNAL   J Neuroimmunol 314, 8-12 (2018)
-   PUBMED   29301656
-  REMARK    GeneRIF: Single nucleotide polymorphisms in exon 2 of CD1A
-            (*01/*02) and CD1E (*01/*02) cannot be recognized as a
-            susceptibility or disease-causative factor for Guillain-Barre
-            syndrome in the Bangladeshi population
-REFERENCE   3  (bases 1 to 1919)
-  AUTHORS   Maitre B, Angenieux C, Wurtz V, Layre E, Gilleron M, Collmann A,
-            Mariotti S, Mori L, Fricker D, Cazenave JP, van Dorsselaer A,
-            Gachet C, de Libero G, Puzo G, Hanau D and de la Salle H.
-  TITLE     The assembly of CD1e is controlled by an N-terminal propeptide
-            which is processed in endosomal compartments
-  JOURNAL   Biochem J 419 (3), 661-668 (2009)
-   PUBMED   19196239
-  REMARK    GeneRIF: CD1e propeptide is conserved during evolution, suggesting
-            that it may also optimize the generation of CD1e molecules in other
-            species.
-REFERENCE   4  (bases 1 to 1919)
-  AUTHORS   Brigl M and Brenner MB.
-  TITLE     CD1: antigen presentation and T cell function
-  JOURNAL   Annu Rev Immunol 22, 817-890 (2004)
-   PUBMED   15032598
-  REMARK    Review article
-REFERENCE   5  (bases 1 to 1919)
-  AUTHORS   Angenieux C, Salamero J, Fricker D, Cazenave JP, Goud B, Hanau D
-            and de La Salle H.
-  TITLE     Characterization of CD1e, a third type of CD1 molecule expressed in
-            dendritic cells
-  JOURNAL   J Biol Chem 275 (48), 37757-37764 (2000)
-   PUBMED   10948205
-REFERENCE   6  (bases 1 to 1919)
-  AUTHORS   Mirones I, Oteo M, Parra-Cuadrado JF and Martinez-Naves E.
-  TITLE     Identification of two novel human CD1E alleles
-  JOURNAL   Tissue Antigens 56 (2), 159-161 (2000)
-   PUBMED   11019917
-REFERENCE   7  (bases 1 to 1919)
-  AUTHORS   Yu CY and Milstein C.
-  TITLE     A physical map linking the five CD1 human thymocyte differentiation
-            antigen genes
-  JOURNAL   EMBO J 8 (12), 3727-3732 (1989)
-   PUBMED   2583117
-REFERENCE   8  (bases 1 to 1919)
-  AUTHORS   Calabi F, Jarvis JM, Martin L and Milstein C.
-  TITLE     Two classes of CD1 genes
-  JOURNAL   Eur J Immunol 19 (2), 285-292 (1989)
-   PUBMED   2467814
-REFERENCE   9  (bases 1 to 1919)
-  AUTHORS   Albertson DG, Fishpool R, Sherrington P, Nacheva E and Milstein C.
-  TITLE     Sensitive and high resolution in situ hybridization to human
-            chromosomes using biotin labelled probes: assignment of the human
-            thymocyte CD1 antigen genes to chromosome 1
-  JOURNAL   EMBO J 7 (9), 2801-2805 (1988)
-   PUBMED   3053166
-REFERENCE   10 (bases 1 to 1919)
-  AUTHORS   Martin,L.H., Calabi,F. and Milstein,C.
-  TITLE     Isolation of CD1 genes: a family of major histocompatibility
-            complex-related differentiation antigens
-  JOURNAL   Proc Natl Acad Sci U S A 83 (23), 9154-9158 (1986)
-   PUBMED   3097645
+REFERENCE   1  (bases 1 to 1574)
+  AUTHORS   Arnold MC, Poonia S, Colquitt L, Lin C, Civantos A, Kohanski M,
+            Adappa ND, Palmer JN, Reed DR and Cohen NA.
+  TITLE     Association between the HLA-DQA1 rs1391371 risk allele and chronic
+            rhinosinusitis
+  JOURNAL   Int Forum Allergy Rhinol 12 (8), 1075-1077 (2022)
+   PUBMED   34990088
+  REMARK    GeneRIF: Association between the HLA-DQA1 rs1391371 risk allele and
+            chronic rhinosinusitis.
+REFERENCE   2  (bases 1 to 1574)
+  AUTHORS   Zhao LP, Skyler J, Papadopoulos GK, Pugliese A, Najera JA, Bondinas
+            GP, Moustakas AK, Wang R, Pyo CW, Nelson WC, Geraghty DE and
+            Lernmark A.
+  TITLE     Association of HLA-DQ Heterodimer Residues -18beta and beta57 With
+            Progression From Islet Autoimmunity to Diabetes in the Diabetes
+            Prevention Trial-Type 1
+  JOURNAL   Diabetes Care 45 (7), 1610-1620 (2022)
+   PUBMED   35621697
+  REMARK    GeneRIF: Association of HLA-DQ Heterodimer Residues -18beta and
+            beta57 With Progression From Islet Autoimmunity to Diabetes in the
+            Diabetes Prevention Trial-Type 1.
+REFERENCE   3  (bases 1 to 1574)
+  AUTHORS   As J, Bertulyte I, Eriksson N, Magnusson PKE, Wadelius M and
+            Hallberg P.
+  TITLE     HLA variants associated with azathioprine-induced pancreatitis in
+            patients with Crohn's disease
+  JOURNAL   Clin Transl Sci 15 (5), 1249-1256 (2022)
+   PUBMED   35120281
+  REMARK    GeneRIF: HLA variants associated with azathioprine-induced
+            pancreatitis in patients with Crohn's disease.
+REFERENCE   4  (bases 1 to 1574)
+  AUTHORS   Beppu S, Kinoshita M, Wilamowski J, Suenaga T, Yasumizu Y, Ogawa K,
+            Ishikura T, Tada S, Koda T, Murata H, Shiraishi N, Sugiyama Y,
+            Kihara K, Sugimoto T, Arase H, Standley DM, Okuno T and Mochizuki
+            H.
+  TITLE     High cell surface expression and peptide binding affinity of
+            HLA-DQA1*05:03, a susceptible allele of neuromyelitis optica
+            spectrum disorders (NMOSD)
+  JOURNAL   Sci Rep 12 (1), 106 (2022)
+   PUBMED   34997058
+  REMARK    GeneRIF: High cell surface expression and peptide binding affinity
+            of HLA-DQA1*05:03, a susceptible allele of neuromyelitis optica
+            spectrum disorders (NMOSD).
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1574)
+  AUTHORS   Zhang X, Zou M, Wu Y, Jiang D, Wu T, Zhao Y, Wu D, Cui J and Li G.
+  TITLE     Regulation of the Late Onset alzheimer's Disease Associated
+            HLA-DQA1/DRB1 Expression
+  JOURNAL   Am J Alzheimers Dis Other Demen 37, 15333175221085066 (2022)
+   PUBMED   35341343
+  REMARK    GeneRIF: Regulation of the Late Onset alzheimer's Disease
+            Associated HLA-DQA1/DRB1 Expression.
+REFERENCE   6  (bases 1 to 1574)
+  AUTHORS   Taylor,A.K., Lebwohl,B., Snyder,C.L. and Green,P.H.R.
+  TITLE     Celiac Disease
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301720
+REFERENCE   7  (bases 1 to 1574)
+  AUTHORS   Marsh SG and Bodmer JG.
+  TITLE     HLA class II nucleotide sequences, 1992
+  JOURNAL   Tissue Antigens 40 (5), 229-243 (1992)
+   PUBMED   1362295
+  REMARK    Correction to:[Tissue Antigens. 1992 Apr;39(4):161-73. PMID:
+            1529427]
+REFERENCE   8  (bases 1 to 1574)
+  AUTHORS   Lee KW, Johnson AH and Hurley CK.
+  TITLE     Two divergent routes of evolution gave rise to the DRw13 haplotypes
+  JOURNAL   J Immunol 145 (9), 3119-3125 (1990)
+   PUBMED   2212675
+REFERENCE   9  (bases 1 to 1574)
+  AUTHORS   Todd JA, Fukui Y, Kitagawa T and Sasazuki T.
+  TITLE     The A3 allele of the HLA-DQA1 locus is associated with
+            susceptibility to type 1 diabetes in Japanese
+  JOURNAL   Proc Natl Acad Sci U S A 87 (3), 1094-1098 (1990)
+   PUBMED   2300572
+REFERENCE   10 (bases 1 to 1574)
+  AUTHORS   Kao HT, Gregersen PK, Tang JC, Takahashi T, Wang CY and Silver J.
+  TITLE     Molecular analysis of the HLA class II genes in two DRw6-related
+            haplotypes, DRw13 DQw1 and DRw14 DQw3
+  JOURNAL   J Immunol 142 (5), 1743-1747 (1989)
+   PUBMED   2493052
 COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
-            reference sequence was derived from DC406237.1, BC131693.1,
-            AJ289111.1 and AL121986.12.
-            On Nov 23, 2018 this sequence version replaced NM_030893.3.
+            reference sequence was derived from AK130811.1, M20431.1,
+            BU617246.1, AF533896.1 and AL662789.11.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Aug 31, 2019 this sequence version replaced NM_002122.4.
             
-            Summary: This gene encodes a member of the CD1 family of
-            transmembrane glycoproteins, which are structurally related to the
-            major histocompatibility complex (MHC) proteins and form
-            heterodimers with beta-2-microglobulin. The CD1 proteins mediate
-            the presentation of primarily lipid and glycolipid antigens of self
-            or microbial origin to T cells. The human genome contains five CD1
-            family genes organized in a cluster on chromosome 1. The CD1 family
-            members are thought to differ in their cellular localization and
-            specificity for particular lipid ligands. The protein encoded by
-            this gene localizes within Golgi compartments, endosomes, and
-            lysosomes, and is cleaved into a stable soluble form. The soluble
-            form is required for the intracellular processing of some
-            glycolipids into a form that can be presented by other CD1 family
-            members. Many alternatively spliced transcript variants encoding
-            different isoforms have been described. Additional transcript
-            variants have been found; however, their biological validity has
-            not been determined. [provided by RefSeq, Jun 2010].
-            
-            Transcript Variant: This variant (1) represents the longest
-            transcript and encodes the longest protein (isoform a, also known
-            as 1).
-            
-            Sequence Note: This RefSeq record was created from transcript and
-            genomic sequence data to make the sequence consistent with the
-            reference genome assembly. The genomic coordinates used for the
-            transcript record were based on transcript alignments.
+            Summary: HLA-DQA1 belongs to the HLA class II alpha chain
+            paralogues. The class II molecule is a heterodimer consisting of an
+            alpha (DQA) and a beta chain (DQB), both anchored in the membrane.
+            It plays a central role in the immune system by presenting peptides
+            derived from extracellular proteins. Class II molecules are
+            expressed in antigen presenting cells (APC: B Lymphocytes,
+            dendritic cells, macrophages). The alpha chain is approximately
+            33-35 kDa. It is encoded by 5 exons; exon 1 encodes the leader
+            peptide, exons 2 and 3 encode the two extracellular domains, and
+            exon 4 encodes the transmembrane domain and the cytoplasmic tail.
+            Within the DQ molecule both the alpha chain and the beta chain
+            contain the polymorphisms specifying the peptide binding
+            specificities, resulting in up to four different molecules. Typing
+            for these polymorphisms is routinely done for bone marrow
+            transplantation. [provided by RefSeq, Jul 2008].
             
             Publication Note:  This RefSeq record includes a subset of the
             publications that are available for this gene. Please see the Gene
             record to access additional publications.
             
             ##Evidence-Data-START##
-            Transcript exon combination :: AK303108.1, AJ289111.1 [ECO:0000332]
+            Transcript exon combination :: AK130838.1, AK130811.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
             ##Evidence-Data-END##
             
             ##RefSeq-Attributes-START##
-            MANE Ensembl match     :: ENST00000368167.8/ ENSP00000357149.3
+            MANE Ensembl match     :: ENST00000343139.11/ ENSP00000339398.5
             RefSeq Select criteria :: based on conservation, expression,
                                       longest protein
             ##RefSeq-Attributes-END##
-            COMPLETENESS: full length.
+            COMPLETENESS: complete on the 3' end.
 PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
-            1-93                DC406237.1         199-291
-            94-450              BC131693.1         3-359
-            451-1262            AJ289111.1         356-1167
-            1263-1919           AL121986.12        103312-103968
+            1-119               AK130811.1         1-119
+            120-1054            M20431.1           1-935
+            1055-1151           BU617246.1         16-112              c
+            1152-1542           AF533896.1         542-932
+            1543-1574           AL662789.11        55547-55578
 FEATURES             Location/Qualifiers
-     source          1..1919
+     source          1..1574
                      /organism="Homo sapiens"
                      /mol_type="mRNA"
                      /db_xref="taxon:9606"
-                     /chromosome="1"
-                     /map="1q23.1"
-     gene            1..1919
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /note="CD1e molecule"
-                     /db_xref="GeneID:913"
-                     /db_xref="HGNC:HGNC:1638"
-                     /db_xref="MIM:188411"
-     exon            1..153
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
+                     /chromosome="6"
+                     /map="6p21.32"
+     gene            1..1574
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
+                     /note="major histocompatibility complex, class II, DQ
+                     alpha 1"
+                     /db_xref="GeneID:3117"
+                     /db_xref="HGNC:HGNC:4942"
+                     /db_xref="MIM:146880"
+     exon            1..135
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
                      /inference="alignment:Splign:2.1.0"
-     misc_feature    42..44
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
+     misc_feature    33..35
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
                      /note="upstream in-frame stop codon"
-     CDS             96..1262
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /note="isoform a precursor is encoded by transcript
-                     variant 1; CD1E antigen, e polypeptide; leukocyte
-                     differentiation antigen; differentiation antigen
-                     CD1-alpha-3; thymocyte antigen CD1E; T-cell surface
-                     glycoprotein CD1e, membrane-associated; R2G1; hCD1e"
+     CDS             54..821
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
+                     /note="HLA class II histocompatibility antigen, DQ alpha 1
+                     chain; MHC HLA-DQ alpha; MHC class II HLA-DQ-alpha-1; MHC
+                     class II DQ alpha chain; MHC class II DQA1; HLA-DCA;
+                     DC-alpha; DC-1 alpha chain; MHC class II antigen DQA1; MHC
+                     class II protein; HLA class II histocompatibility antigen
+                     DQ alpha chain"
                      /codon_start=1
-                     /product="T-cell surface glycoprotein CD1e,
-                     membrane-associated isoform a precursor"
-                     /protein_id="NP_112155.2"
-                     /db_xref="CCDS:CCDS41417.1"
-                     /db_xref="GeneID:913"
-                     /db_xref="HGNC:HGNC:1638"
-                     /db_xref="MIM:188411"
-                     /translation="MLLLFLLFEGLCCPGENTAAPQALQSYHLAAEEQLSFRMLQTSS
-                     FANHSWAHSEGSGWLGDLQTHGWDTVLGTIRFLKPWSHGNFSKQELKNLQSLFQLYFH
-                     SFIQIVQASAGQFQLEYPFEIQILAGCRMNAPQIFLNMAYQGSDFLSFQGISWEPSPG
-                     AGIRAQNICKVLNRYLDIKEILQSLLGHTCPRFLAGLMEAGESELKRKVKPEAWLSCG
-                     PSPGPGRLQLVCHVSGFYPKPVWVMWMRGEQEQRGTQRGDVLPNADETWYLRATLDVA
-                     AGEAAGLSCRVKHSSLGGHDLIIHWGGYSIFLILICLTVIVTLVILVVVDSRLKKQSS
-                     NKNILSPHTPSPVFLMGANTQDTKNSRHQFCLAQVSWIKNRVLKKWKTRLNQLW"
-     sig_peptide     96..152
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
+                     /product="HLA class II histocompatibility antigen, DQ
+                     alpha 1 chain precursor"
+                     /protein_id="NP_002113.2"
+                     /db_xref="CCDS:CCDS4752.1"
+                     /db_xref="GeneID:3117"
+                     /db_xref="HGNC:HGNC:4942"
+                     /db_xref="MIM:146880"
+                     /translation="MILNKALLLGALALTTVMSPCGGEDIVADHVASCGVNLYQFYGP
+                     SGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKR
+                     YNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSE
+                     TSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTET
+                     VVCALGLSVGLMGIVVGTVFIIQGLRSVGASRHQGPL"
+     sig_peptide     54..122
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
                      /inference="COORDINATES: ab initio prediction:SignalP:4.0"
-     mat_peptide     153..1259
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /product="T-cell surface glycoprotein CD1e,
-                     membrane-associated isoform a"
-     misc_feature    234..236
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /note="N-linked (GlcNAc...) asparagine.
-                     /evidence=ECO:0000255; propagated from
-                     UniProtKB/Swiss-Prot (P15812.2); glycosylation site"
-     misc_feature    345..347
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /note="N-linked (GlcNAc...) asparagine.
-                     /evidence=ECO:0000255; propagated from
-                     UniProtKB/Swiss-Prot (P15812.2); glycosylation site"
-     misc_feature    1008..1070
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /note="propagated from UniProtKB/Swiss-Prot (P15812.2);
-                     transmembrane region"
-     exon            154..450
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
+     exon            136..384
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
                      /inference="alignment:Splign:2.1.0"
-     exon            451..720
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
+     exon            385..666
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
                      /inference="alignment:Splign:2.1.0"
-     exon            721..999
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
+     exon            667..841
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
                      /inference="alignment:Splign:2.1.0"
-     exon            1000..1093
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
+     exon            842..1574
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
                      /inference="alignment:Splign:2.1.0"
-     exon            1094..1919
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /inference="alignment:Splign:2.1.0"
-     regulatory      1882..1887
+     regulatory      1132..1137
                      /regulatory_class="polyA_signal_sequence"
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
                      /note="hexamer: AATAAA"
-     regulatory      1898..1903
+     polyA_site      1155
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
+                     /note="major polyA site"
+     regulatory      1463..1468
                      /regulatory_class="polyA_signal_sequence"
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /note="hexamer: AATAAA"
-     polyA_site      1903
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /note="major polyA site"
-     polyA_site      1919
-                     /gene="CD1E"
-                     /gene_synonym="CD1A; R2"
-                     /note="major polyA site"
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
+                     /note="hexamer: AATAAG"
+     polyA_site      1484
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
+     regulatory      1554..1559
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
+                     /note="hexamer: AGTAAA"
+     polyA_site      1574
+                     /gene="HLA-DQA1"
+                     /gene_synonym="CELIAC1; DQ-A1; DQA1; HLA-DQA; HLA-DQA1*;
+                     HLA-DQB1"
 ORIGIN      
-        1 agacgagagt gcaagagggt gtggagaggg gtactgatat ctgaattatt agggcaggtg
-       61 tcctgccaag gaatccctcc tttaacagag cttcaatgct gctcctgttc ctcctcttcg
-      121 agggtctctg ctgtcctggg gaaaatacag cagctcccca ggctctacaa tcctatcatc
-      181 tagcagcaga ggagcagctg tccttccgca tgctccaaac ttcctccttt gccaaccaca
-      241 gctgggcaca cagtgagggc tcaggatggc tgggtgacct gcagactcat ggctgggaca
-      301 ctgtcttggg caccatccgc tttctgaagc cctggtccca tggaaacttc agcaagcagg
-      361 agctgaaaaa cttacagtca ctgttccagt tatacttcca tagttttatc cagatagtgc
-      421 aagcttctgc tggtcaattt cagcttgaat accccttcga gatccagata ttagctggct
-      481 gtagaatgaa tgccccacaa atcttcttaa atatggcata tcaagggtca gatttcctga
-      541 gtttccaagg aatttcctgg gagccatctc caggagcagg gatccgggcc cagaacatct
-      601 gtaaagtgct caatcgctac ctagatatta aggaaatact gcaaagcctt cttggtcaca
-      661 cctgccctcg atttctagcg gggctcatgg aagcagggga gtcagaactg aaacggaaag
-      721 tgaagccaga ggcctggctg tcctgtggcc ccagtcctgg ccctggccgt ctgcagcttg
-      781 tgtgccatgt ctcaggattc tacccaaagc ccgtgtgggt gatgtggatg cggggtgagc
-      841 aggagcagcg gggcactcag cgaggggacg tcctgcctaa tgctgacgag acatggtatc
-      901 tccgagcaac cctggatgtg gcggctgggg aggcagctgg cctgtcctgt cgggtgaaac
-      961 acagcagtct agggggccat gatctaatca tccattgggg tggatattcc atctttctca
-     1021 tcctgatctg tttgactgtg atagttaccc tggtcatatt ggttgtagtt gactcacggt
-     1081 taaaaaaaca gagttcaaat aagaacattc tttctcccca cacacccagc cctgtctttc
-     1141 tcatgggagc caacactcag gacaccaaga attcaagaca tcagttctgc ttggcacaag
-     1201 tatcgtggat caaaaacaga gtattgaaga agtggaagac acgcctaaac caactctggt
-     1261 gacatttgct ttaccttata cataaaatcc ttgtctgcat cttcttaaac accgtccatg
-     1321 tcccataagg gaagcatgct tttatttaaa cagtttatac tagcaaagat actgacccct
-     1381 ttaggaatac tttttcccca tcttccagag attttttttt tcctgctttg gctacatatc
-     1441 catcattgtt tatttttgaa actataatcc agatacttct ttttcatgga ttcccgagat
-     1501 cacccaattg atagctcttc tgtactcccc aaattgaact gatcttcaca agcacattca
-     1561 tctcttccta ctctgaacag tagttattta ggtttttgct cttttttttt ttttaatctc
-     1621 agttgcttga aagtaggatt taggtatttg tgtctgtatt catgaccaaa aatcttatct
-     1681 gaattcaggg ccagcttcat aagcatgtga cctgtgcaga cacatggaat cgtatgctct
-     1741 gcaagaaccc atgctagatt taatgctctg ctgttgtcat cttggaatcc ttagtcattt
-     1801 tcaaacaaga gatattgtat tttcattttt cactgacccc acaaattata tagctgattc
-     1861 agtgtgaatg taatatttct caataaatgc tgactgaaat aaatttgttg ttagatcaa
+        1 acaattactc tacagctcag aacaccaact gctgaggctg ccttgggaag aggatgatcc
+       61 taaacaaagc tctgctgctg ggggccctcg ctctgaccac cgtgatgagc ccctgtggag
+      121 gtgaagacat tgtggctgac cacgttgcct cttgtggtgt aaacttgtac cagttttacg
+      181 gtccctctgg ccagtacacc catgaatttg atggagatga gcagttctac gtggacctgg
+      241 agaggaagga gactgcctgg cggtggcctg agttcagcaa atttggaggt tttgacccgc
+      301 agggtgcact gagaaacatg gctgtggcaa aacacaactt gaacatcatg attaaacgct
+      361 acaactctac cgctgctacc aatgaggttc ctgaggtcac agtgttttcc aagtctcccg
+      421 tgacactggg tcagcccaac accctcattt gtcttgtgga caacatcttt cctcctgtgg
+      481 tcaacatcac atggctgagc aatgggcagt cagtcacaga aggtgtttct gagaccagct
+      541 tcctctccaa gagtgatcat tccttcttca agatcagtta cctcaccttc ctcccttctg
+      601 ctgatgagat ttatgactgc aaggtggagc actggggcct ggaccagcct cttctgaaac
+      661 actgggagcc tgagattcca gcccctatgt cagagctcac agagactgtg gtctgtgccc
+      721 tggggttgtc tgtgggcctc atgggcattg tggtgggcac tgtcttcatc atccaaggcc
+      781 tgcgttcagt tggtgcttcc agacaccaag ggccattgtg aatcccatcc tggaagggaa
+      841 ggtgcatcgc catctacagg agcagaagaa tggacttgct aaatgaccta gcactattct
+      901 ctggcccgat ttatcatatc ccttttctcc tccaaatatt tctcctctca ccttttctct
+      961 gggacttaag ctgctatatc ccctcagagc tcacaaatgc ctttacattc tttccctgac
+     1021 ctcctgattt tttttttctt ttctcaaatg ttacctacaa agacatgcct ggggtaagcc
+     1081 acccggctac ctaattcctc agtaacctcc atctaaaatc tccaaggaag caataaattc
+     1141 cttttatgag atctatgtca aatttttcca tctttcatcc agggctgact gaaactatgg
+     1201 ctaataattg gggtactctt atgtttcaat ccaatttaac ctcatttccc agatcatttt
+     1261 tcatgtccag taacacagaa gccaccaagt acagtatagc ctgataatat gttgatttct
+     1321 tagctgacat taatatttct tgcttccttg tgttcccacc cttggcactg ccacccaccc
+     1381 ctcaattcag gcaacaatga aattaatgga taccgtctgc ccttggccca gaattgttat
+     1441 agcaaaaatt ttagaaccaa aaaataagtc tgtactaatt tcaatgtggc ttttaaaagt
+     1501 atgacagaga aataagttag gataaaggaa atttgaatct caaaaatatc aaaagtaaaa
+     1561 atgtattctc aaaa
 //
