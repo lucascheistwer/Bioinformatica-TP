@@ -1,0 +1,130 @@
+BLASTP 2.13.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+           510,315,226 sequences; 198,966,227,267 total letters
+
+
+
+Query= NM_002122 Homo sapiens major histocompatibility complex, class II,
+DQ alpha 1 (HLA-DQA1), mRNA.
+
+Length=524
+
+RID: M9EXS5P2016
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+QGX09065.1 truncated MHC class II antigen [Homo sapiens]              67.0    3e-08
+XP_011782641.1 PREDICTED: HLA class II histocompatibility antigen...  59.3    3e-05
+XP_011782642.1 PREDICTED: HLA class II histocompatibility antigen...  59.3    3e-05
+XP_036270587.1 RLA class II histocompatibility antigen, DP alpha-...  45.4    0.34 
+XP_036270585.1 SLA class II histocompatibility antigen, DQ haplot...  43.9    2.1  
+
+
+>QGX09065.1 truncated MHC class II antigen [Homo sapiens]
+Length=237
+
+ Score = 67.0 bits (162),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 28/31 (90%), Positives = 28/31 (90%), Gaps = 0/31 (0%)
+
+Query  223  SLRFQPLCQSSQRLWSVPWGCLWASWALWWA  253
+            SLRFQ LCQSSQRLWS PWGCLWASWALWW 
+Sbjct  205  SLRFQHLCQSSQRLWSAPWGCLWASWALWWG  235
+
+
+>XP_011782641.1 PREDICTED: HLA class II histocompatibility antigen, DQ alpha 
+2 chain isoform X1 [Colobus angolensis palliatus]
+Length=354
+
+ Score = 59.3 bits (142),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 25/31 (81%), Positives = 25/31 (81%), Gaps = 0/31 (0%)
+
+Query  223  SLRFQPLCQSSQRLWSVPWGCLWASWALWWA  253
+            S RFQ  CQSSQRLWS PWGC WASWALWW 
+Sbjct  322  SRRFQRPCQSSQRLWSAPWGCPWASWALWWG  352
+
+
+>XP_011782642.1 PREDICTED: HLA class II histocompatibility antigen, DQ alpha 
+2 chain isoform X2 [Colobus angolensis palliatus]
+Length=349
+
+ Score = 59.3 bits (142),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 25/31 (81%), Positives = 25/31 (81%), Gaps = 0/31 (0%)
+
+Query  223  SLRFQPLCQSSQRLWSVPWGCLWASWALWWA  253
+            S RFQ  CQSSQRLWS PWGC WASWALWW 
+Sbjct  317  SRRFQRPCQSSQRLWSAPWGCPWASWALWWG  347
+
+
+>XP_036270587.1 RLA class II histocompatibility antigen, DP alpha-1 chain isoform 
+X3 [Pipistrellus kuhlii]
+Length=205
+
+ Score = 45.4 bits (106),  Expect = 0.34, Method: Compositional matrix adjust.
+ Identities = 30/70 (43%), Positives = 37/70 (53%), Gaps = 1/70 (1%)
+
+Query  281  GASPSTGAEEWTC*MT*HYSLARFIISLFSSKYFSSHLFSGT*AAISPQSSQMPLHSFPD  340
+            GA P   AEEWTC +T HYSLA++I+ LF+S       F G    + P     PL   P 
+Sbjct  122  GALPILRAEEWTCWVTWHYSLAKYILVLFASTAPPVISFLGL-KVLCPLRVHKPLEFSPL  180
+
+Query  341  LLIFFFFSQM  350
+            LL F  FS +
+Sbjct  181  LLTFCLFSSV  190
+
+
+>XP_036270585.1 SLA class II histocompatibility antigen, DQ haplotype D alpha 
+chain isoform X1 [Pipistrellus kuhlii]
+Length=288
+
+ Score = 43.9 bits (102),  Expect = 2.1, Method: Compositional matrix adjust.
+ Identities = 30/70 (43%), Positives = 37/70 (53%), Gaps = 1/70 (1%)
+
+Query  281  GASPSTGAEEWTC*MT*HYSLARFIISLFSSKYFSSHLFSGT*AAISPQSSQMPLHSFPD  340
+            GA P   AEEWTC +T HYSLA++I+ LF+S       F G    + P     PL   P 
+Sbjct  205  GALPILRAEEWTCWVTWHYSLAKYILVLFASTAPPVISFLGL-KVLCPLRVHKPLEFSPL  263
+
+Query  341  LLIFFFFSQM  350
+            LL F  FS +
+Sbjct  264  LLTFCLFSSV  273
+
+
+
+Lambda      K        H
+   0.346    0.148    0.546 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 39723274151838
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Oct 7, 2022 03:20 AM
+  Number of letters in database: 198,966,227,267
+  Number of sequences in database:  510,315,226
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

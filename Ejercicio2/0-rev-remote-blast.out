@@ -1,0 +1,99 @@
+BLASTP 2.13.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+           510,315,226 sequences; 198,966,227,267 total letters
+
+
+
+Query= NM_002122 Homo sapiens major histocompatibility complex, class II,
+DQ alpha 1 (HLA-DQA1), mRNA.
+
+Length=525
+
+RID: M9F08E5S013
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XP_021521250.1 HLA class II histocompatibility antigen, DQ beta 1...  85.5    4e-15
+DAA16656.1 TPA: rCG61023-like [Bos taurus]                            50.8    0.022
+OBS78077.1 hypothetical protein A6R68_19538 [Neotoma lepida]          45.8    0.52 
+
+
+>XP_021521250.1 HLA class II histocompatibility antigen, DQ beta 1 chain [Aotus 
+nancymaae]
+Length=174
+
+ Score = 85.5 bits (210),  Expect = 4e-15, Method: Compositional matrix adjust.
+ Identities = 40/46 (87%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  249  GWDSQWPLVSGSTN*TQALDDEDSAHHNAHEAHRQPQGTDHSLCEL  294
+            GWDSQ PL SGSTN TQA DDEDSAHHNAHEAHRQPQG DHSL EL
+Sbjct  129  GWDSQGPLASGSTNCTQASDDEDSAHHNAHEAHRQPQGADHSLFEL  174
+
+
+>DAA16656.1 TPA: rCG61023-like [Bos taurus]
+Length=712
+
+ Score = 50.8 bits (120),  Expect = 0.022, Method: Compositional matrix adjust.
+ Identities = 25/69 (36%), Positives = 40/69 (58%), Gaps = 0/69 (0%)
+
+Query  317  HLAVINLISRREEGEVTDLEEGMITLGEEAGLRNTFCD*LPIAQPCDVDHRRKDVVHKTN  376
+            H   + ++ +  +G+V +L E ++ L  EA L +   D + +AQP DVD R +D VH  +
+Sbjct  31   HHVFVEVVHQGHKGQVVELPEQVVRLRVEAALGHALGDGMAVAQPGDVDDRGEDFVHDAD  90
+
+Query  377  EGVGLTQCH  385
+            E +GL Q H
+Sbjct  91   EDIGLAQLH  99
+
+
+>OBS78077.1 hypothetical protein A6R68_19538, partial [Neotoma lepida]
+Length=338
+
+ Score = 45.8 bits (107),  Expect = 0.52, Method: Compositional matrix adjust.
+ Identities = 25/43 (58%), Positives = 27/43 (63%), Gaps = 0/43 (0%)
+
+Query  483  VFTSTGAHHGGQSEGPQQQSFV*DHPLPKAASAVGVLSCRVIV  525
+            VFTST A HGGQ E PQ QS    HPLP   SA  +LS + IV
+Sbjct  220  VFTSTRAEHGGQGEEPQNQSSAGRHPLPWVVSAATLLSPQEIV  262
+
+
+
+Lambda      K        H
+   0.341    0.151    0.504 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 39835486790685
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Oct 7, 2022 03:20 AM
+  Number of letters in database: 198,966,227,267
+  Number of sequences in database:  510,315,226
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
