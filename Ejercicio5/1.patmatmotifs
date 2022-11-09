@@ -1,0 +1,138 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Wed  9 Nov 2022 10:33:44
+# Commandline: patmatmotifs
+#    -full
+#    -sequence 1.fasta
+#    -outfile 1.patmatmotifs
+# Report_format: dbmotif
+# Report_file: 1.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: NM_002122     from: 1   to: 524
+# HitCount: 2
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 8
+Start = position 509 of sequence
+End = position 516 of sequence
+
+Motif = TYR_PHOSPHO_SITE_1
+
+NKLGXRKFESQKYQKXKC
+     |      |
+   509      516
+
+Length = 4
+Start = position 521 of sequence
+End = position 524 of sequence
+
+Motif = PRENYLATION
+
+YQKXKCILK
+     |  |
+   521  524
+
+
+#---------------------------------------
+#
+# Motif: TYR_PHOSPHO_SITE_1
+# Count: 1
+# 
+# *****************************************
+# * Tyrosine kinase phosphorylation sites *
+# *****************************************
+# 
+# Substrates of tyrosine protein kinases are generally characterized by a lysine
+# or an arginine seven residues  to  the N-terminal side  of  the phosphorylated
+# tyrosine.  An acidic residue (Asp  or Glu) is often  found at either  three or
+# four residues to  the N-terminal side  of  the tyrosine  [1,2,3].  There are a
+# number of exceptions to  this rule such as the  tyrosine phosphorylation sites
+# of enolase and lipocortin II.
+# 
+# We developed  two  signature  patterns for the tyrosine kinase phosphorylation
+# sites. The  first  pattern  is  directed  against  the  sites where the acidic
+# residue (Asp  or Glu) is found at three residues to the N-terminal side of the
+# tyrosine, and the second one against the site where it is at four.
+# 
+# -Consensus pattern: [RK]-x(2)-[DE]-x(3)-Y
+#                     [Y is the phosphorylation site]
+# 
+# -Consensus pattern: [RK]-x(3)-[DE]-x(2)-Y
+#                     [Y is the phosphorylation site]
+# 
+# -Last update: March 2019 / Text and pattern revised; pattern added.
+# 
+# [ 1] Patschinsky T., Hunter T., Esch F.S., Cooper J.A., Sefton B.M.
+#      "Analysis of the sequence of amino acids surrounding sites of tyrosine
+#      phosphorylation."
+#      Proc. Natl. Acad. Sci. U.S.A. 79:973-977(1982).
+#      PubMed=6280176
+# [ 2] Hunter T.
+#      "Synthetic peptide substrates for a tyrosine protein kinase."
+#      J. Biol. Chem. 257:4843-4848(1982).
+#      PubMed=6279650
+# [ 3] Cooper J.A., Esch F.S., Taylor S.S., Hunter T.
+#      "Phosphorylation sites in enolase and lactate dehydrogenase utilized
+#      by tyrosine protein kinases in vivo and in vitro."
+#      J. Biol. Chem. 259:7835-7841(1984).
+#      PubMed=6330085
+# 
+# ***************
+# 
+# Motif: PRENYLATION
+# Count: 1
+# 
+# ****************************************
+# * Prenyl group binding site (CAAX box) *
+# ****************************************
+# 
+# A number of eukaryotic  proteins  are  post-translationally  modified  by  the
+# attachment  of either a farnesyl  or a geranyl-geranyl  group  to  a  cysteine
+# residue [1,2,3,4]. The modification occurs on cysteine residues that are three
+# residues away from the C-terminal extremity;  the  two  residues that separate
+# this cysteine from the C-terminal residue  are generally  aliphatic. This Cys-
+# Ali-Ali-X  pattern is  generally  known  as  the  CAAX  box. Proteins known or
+# strongly presumed to be the target of this modification are listed below.
+# 
+#  - Ras proteins, and ras-like proteins such as Rho, Rab, Rac, Ral, and Rap.
+#  - Nuclear lamins A and B.
+#  - Some G protein alpha subunits.
+#  - G protein gamma subunits (see <PDOC01002>).
+#  - 2',3'-cyclic nucleotide 3'-phosphodiesterase (EC 3.1.4.37).
+#  - Rhodopsin-sensitive  cGMP 3',5'-cyclic  nucleotide phosphodiesterase  alpha
+#    and beta chains (EC 3.1.4.17).
+#  - Rhodopsin kinase (EC 2.7.11.14).
+#  - Some dnaJ-like proteins (such as yeast MAS5/YDJ1).
+#  - A number of fungal mating factors (such as M-factor or rhodotorucine A).
+# 
+# -Consensus pattern: C-{DENQ}-[LIVM]-x>
+#                     [C is the prenylation site]
+# -Last update: November 1997 / Text revised.
+# 
+# [ 1] Glomset J.A., Gelb M.H., Farnsworth C.C.
+#      "Prenyl proteins in eukaryotic cells: a new type of membrane anchor."
+#      Trends Biochem. Sci. 15:139-142(1990).
+#      PubMed=2187294
+# [ 2] Lowy D.R., Willumsen B.M.
+#      "Protein modification: new clue to Ras lipid glue."
+#      Nature 341:384-385(1989).
+#      PubMed=2677741
+# [ 3] Imagee A.I.
+#      Biochem. Soc. Trans. 17:875-876(1989).
+# [ 4] Powers S.
+#      "Protein prenylation: a modification that sticks."
+#      Curr. Biol. 1:114-116(1991).
+#      PubMed=15336183
+# 
+# ***************
+# 
+#
+#---------------------------------------

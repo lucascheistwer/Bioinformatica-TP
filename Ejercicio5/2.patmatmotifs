@@ -1,0 +1,146 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Wed  9 Nov 2022 10:31:26
+# Commandline: patmatmotifs
+#    -full
+#    -sequence 2.fasta
+#    -outfile 2.patmatmotifs
+# Report_format: dbmotif
+# Report_file: 2.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: NM_002122     from: 1   to: 524
+# HitCount: 2
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 14 of sequence
+End = position 17 of sequence
+
+Motif = AMIDATION
+
+NCXGCLGKRMILNK
+     |  |
+    14  17
+
+Length = 7
+Start = position 204 of sequence
+End = position 210 of sequence
+
+Motif = IG_MHC
+
+SADEIYDCKVEHWGLDQ
+     |     |
+   204     210
+
+
+#---------------------------------------
+#
+# Motif: AMIDATION
+# Count: 1
+# 
+# ******************
+# * Amidation site *
+# ******************
+# 
+# The precursor of  hormones  and other active  peptides  which are C-terminally
+# amidated is always directly followed [1,2] by a glycine residue which provides
+# the amide group, and  most often by at  least two  consecutive  basic residues
+# (Arg or Lys) which generally function as an active peptide  precursor cleavage
+# site.  Although all amino acids can be amidated,  neutral hydrophobic residues
+# such as Val or Phe are good substrates, while  charged residues such as Asp or
+# Arg  are much less reactive.  C-terminal  amidation has not  yet been shown to
+# occur in unicellular organisms or in plants.
+# 
+# -Consensus pattern: x-G-[RK]-[RK]
+#                     [x is the amidation site]
+# -Last update: June 1988 / First entry.
+# 
+# [ 1] Kreil G.
+#      "Occurrence, detection, and biosynthesis of carboxy-terminal amides."
+#      Methods Enzymol. 106:218-223(1984).
+#      PubMed=6548541
+# [ 2] Bradbury A.F., Smyth D.G.
+#      "Biosynthesis of the C-terminal amide in peptide hormones."
+#      Biosci. Rep. 7:907-916(1987).
+#      PubMed=3331120
+# 
+# ***************
+# 
+# Motif: IG_MHC
+# Count: 1
+# 
+# ***************************************************************************
+# * Immunoglobulins and major histocompatibility complex proteins signature *
+# ***************************************************************************
+# 
+# The basic structure  of immunoglobulin (Ig) [1] molecules is a tetramer of two
+# light chains  and two heavy chains linked  by disulfide  bonds.  There are two
+# types of  light chains:  kappa and lambda,  each composed of a constant domain
+# (CL) and a variable domain (VL).  There are five types of heavy chains: alpha,
+# delta, epsilon,  gamma  and  mu,  all consisting of a variable domain (VH) and
+# three (in alpha,  delta  and  gamma)  or  four (in  epsilon and  mu)  constant
+# domains (CH1 to CH4).
+# 
+# The major histocompatibility complex  (MHC) molecules  are made of two chains.
+# In class I [2] the alpha  chain is composed of three  extracellular domains, a
+# transmembrane   region   and a   cytoplasmic tail.   The  beta  chain (beta-2-
+# microglobulin) is  composed of a single extracellular domain. In class II [3],
+# both the  alpha and the beta chains are composed of two extracellular domains,
+# a transmembrane region and a cytoplasmic tail.
+# 
+# It is  known  [4,5]    that  the  Ig  constant  chain  domains  and   a single
+# extracellular   domain   in each  type  of  MHC   chains are related.    These
+# homologous domains  are  approximately    one    hundred amino  acids long and
+# include a conserved intradomain disulfide bond.  We developed  a small pattern
+# around the C-terminal cysteine involved  in  this  disulfide bond which can be
+# used to detect these category of Ig related proteins.
+# 
+# -Consensus pattern: [FY]-{L}-C-{PGAD}-[VA]-{LC}-H
+#                     [The C is involved in a disulfide bond]
+# -Sequences known to belong to this class detected by the pattern:
+#  Ig heavy chains type Alpha C region  : All, in CH2 and CH3.
+#  Ig heavy chains type Delta C region  : All, in CH3.
+#  Ig heavy chains type Epsilon C region: All, in CH1, CH3 and CH4.
+#  Ig heavy chains type Gamma C region  : All, in CH3 and also CH1 in some cases
+#  Ig heavy chains type Mu C region     : All, in CH2, CH3 and CH4.
+#  Ig light chains type Kappa C region  : In all CL except rabbit and Xenopus.
+#  Ig light chains type Lambda C region : In all CL except rabbit.
+#  MHC class I alpha chains : All,  in   alpha-3  domains,   including   in  the
+#  cytomegalovirus MHC-1 homologous protein [6].
+#  Beta-2-microglobulin     : All.
+#  MHC class II alpha chains: All, in alpha-2 domains.
+#  MHC class II beta  chains: All, in beta-2 domains.
+# -Other sequence(s) detected in Swiss-Prot: 89.
+# -Last update: April 2006 / Pattern revised.
+# 
+# [ 1] Gough N.
+#      Trends Biochem. Sci. 6:203-205(1981).
+# [ 2] Klein J., Figueroa F.
+#      Immunol. Today 7:41-44(1986).
+# [ 3] Figueroa F., Klein J.
+#      Immunol. Today 7:78-81(1986).
+# [ 4] Orr H.T., Lancet D., Robb R.J., Lopez de Castro J.A., Strominger J.L.
+#      "The heavy chain of human histocompatibility antigen HLA-B7 contains
+#      an immunoglobulin-like region."
+#      Nature 282:266-270(1979).
+#      PubMed=388231
+# [ 5] Cushley W., Owen M.J.
+#      Immunol. Today 4:88-92(1983).
+# [ 6] Beck S., Barrell B.G.
+#      "Human cytomegalovirus encodes a glycoprotein homologous to MHC
+#      class-I antigens."
+#      Nature 331:269-272(1988).
+#      PubMed=2827039; DOI=10.1038/331269a0;
+# 
+# ***************
+# 
+#
+#---------------------------------------
